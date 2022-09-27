@@ -25,8 +25,8 @@ content:
     country: CHINA
     country_code: CN
   coordinates:
-    latitude: '18.214897'
-    longitude: '109.48574'
+    latitude: '18.209722'
+    longitude: '109.479222'
   directions: Enter Comprehensive Building and take the stairs to Office 509 on Floor 5
   office_hours:
     - 'Weekday 8:30 to 17:30'
