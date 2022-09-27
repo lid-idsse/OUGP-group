@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: OUGP Group
+widget_id: RECENT-POSTS
 headless: true
 weight: 10
 title: OCGP Group
