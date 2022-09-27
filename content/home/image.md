@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: 6000hadalnews2p1.png
+    image: ""
     image_darken: 0
     image_parallax: false
     image_position: center
